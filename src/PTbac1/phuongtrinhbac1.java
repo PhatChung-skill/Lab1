@@ -24,5 +24,6 @@ public class phuongtrinhbac1 {
 
     public void xuat(){
         System.out.println(+a+"x+"+b+"=0");
+        System.out.println(giai());
     }
 }
